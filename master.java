@@ -1,0 +1,2 @@
+publis calss master{
+}
